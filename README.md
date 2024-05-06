@@ -57,6 +57,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 # Developed by:Sanjushri.A
 # Register number:212223040187
+
+
 module JK_FF(q, qb,j,k,clock,reset);
     input j,k,clock,reset;
     output reg q, qb;
@@ -102,3 +104,4 @@ endmodule
 
 
 **RESULTS**
+Thus the program to implement a JK flipflop using verilog and validating their functionality using their functional tables is successfully completed.
